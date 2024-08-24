@@ -87,6 +87,9 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+<hr>
+<h3>CODE</h3>
+<hr>
 
 <hr>
 <h3>Result:</h3>
